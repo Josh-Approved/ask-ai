@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Ask AI",
   "version": "1.0.0",
-  "description": "Ask any question about the page or YouTube video you're on. Runs entirely on your device.",
+  "description": "Ask any question about the page or YouTube video you're on. Your data stays with you.",
   "action": {
     "default_popup": "popup.html",
     "default_icon": {

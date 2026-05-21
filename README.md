@@ -1,6 +1,6 @@
 # Ask AI
 
-A Chrome extension that answers questions about the page or YouTube video you're on, using the AI model built into your browser. Nothing leaves your device.
+A Chrome extension that answers questions about the page or YouTube video you're on, using the AI model built into your browser. Your data stays with you.
 
 ## What it does
 
@@ -37,7 +37,7 @@ Then load the extension:
 
 ## Privacy
 
-Page text is processed by Chrome's on-device AI model. Nothing is sent to a server, nothing is logged, no telemetry. See [PRIVACY.md](PRIVACY.md) for the full posture.
+Your data stays with you. Page text is processed by the AI model built into Chrome — nothing is sent to a server, nothing is logged. See [PRIVACY.md](PRIVACY.md) for the full posture.
 
 ## License
 
