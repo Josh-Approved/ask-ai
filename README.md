@@ -5,7 +5,7 @@ A Chrome extension that answers questions about the page or YouTube video you're
 ## What it does
 
 - **Page Q&A.** Ask anything about the article, post, or page you're reading.
-- **YouTube Q&A.** Ask about a video — answers are based on the captions, no watching required.
+- **YouTube Q&A.** Ask about a video: answers are based on the captions, no watching required.
 - **Page-aware suggestions.** Starter questions adapt to the kind of page you're on.
 
 All of it runs on Chrome's built-in Gemini Nano. No API keys, no server round-trips, no account.
@@ -37,7 +37,7 @@ Then load the extension:
 
 ## Privacy
 
-Your data stays with you. Page text is processed by the AI model built into Chrome — nothing is sent to a server, nothing is logged. See [PRIVACY.md](PRIVACY.md) for the full posture.
+Your data stays with you. Page text is processed by the AI model built into Chrome. Nothing is sent to a server, nothing is logged. See [PRIVACY.md](PRIVACY.md) for the full posture.
 
 ## License
 
