@@ -41,7 +41,7 @@ Your data stays with you. Page text is processed by the AI model built into Chro
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE).
 
 ## Feedback
 
