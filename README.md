@@ -16,9 +16,9 @@ Anyone who wants quick answers about what they're reading or watching, without s
 
 ## How to get it
 
-Coming soon to the Chrome Web Store.
+Install it from the [Chrome Web Store](https://chromewebstore.google.com/detail/ask-ai/ijppmdedkjcpicffbinafhegdmkfdeff).
 
-In the meantime, load it as an unpacked extension — see below.
+Or load it as an unpacked extension, see below.
 
 ## Run it locally
 
